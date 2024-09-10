@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DipanjanKuila
-- 👀 I’m interested in data science, machine learning, generative AI, and API development.
+- 👀 I’m interested in data science, machine learning, generative AI,Prompt engineering and API development.
 - 💼 I’m looking to work as an AI/ML Engineer.
 - 💞️ I’m looking to collaborate on AI/ML projects, data science initiatives, and API development.
 - 📫 - Email: dipanjan761@gmail.com
